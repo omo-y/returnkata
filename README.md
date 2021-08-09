@@ -1,2 +1,2 @@
-# returnkata
+# typescriptkata
 Created with CodeSandbox
